@@ -1,4 +1,14 @@
 * {
     background-color: black;
     color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.download-link {
+    color: aquamarine;
+    text-align: center;
 }
